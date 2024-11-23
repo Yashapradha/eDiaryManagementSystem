@@ -92,14 +92,8 @@ Follow the steps below to run the project locally:
 ![Login Page](screenshots/login_page.png)
 
 ### Dashboard:
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Output/dashboard.png)
 
 ### Entry Management:
 ![Entry Management](screenshots/entry_management.png)
 
-
-For any questions or suggestions, feel free to contact:
-
-- **Name**: Yashapradha
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
