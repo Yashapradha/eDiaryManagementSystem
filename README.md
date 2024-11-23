@@ -92,7 +92,7 @@ Follow the steps below to run the project locally:
 ![Login Page](screenshots/login_page.png)
 
 ### Dashboard:
-![Dashboard](Output/dashboard.png)
+![Dashboard](eDiary/static/OutPut/Dashboard.jpg)
 
 ### Entry Management:
 ![Entry Management](screenshots/entry_management.png)
