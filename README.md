@@ -33,8 +33,8 @@ Follow the steps below to run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/e-diary-management-system.git
-   cd e-diary-management-system
+   git clone https://github.com/Yashapradha/eDiaryManagementSystem.git
+   cd eDiaryManagementSystem
    ```
 
 2. **Set Up a Virtual Environment** (optional):
@@ -45,7 +45,7 @@ Follow the steps below to run the project locally:
 
 3. **Install Dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip install django
    ```
 
 4. **Apply Migrations**:
@@ -97,44 +97,6 @@ Follow the steps below to run the project locally:
 ### Entry Management:
 ![Entry Management](screenshots/entry_management.png)
 
----
-
-## Future Enhancements
-
-- Add support for tagging and searching diary entries.
-- Implement dark mode for better user experience.
-- Enable exporting entries to PDF or other formats.
-
----
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
-
-1. Fork the project.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add YourFeature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-## Contact
 
 For any questions or suggestions, feel free to contact:
 
